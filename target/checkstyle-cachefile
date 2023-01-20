@@ -1,0 +1,4 @@
+#Fri Jan 20 15:39:36 SGT 2023
+configuration*?=BEC006D32A41311B7D3C17ED27821410F71F7D10
+module-resource*?\:checkstyle/suppressions.xml=EF8343D7460B9B2232806D623803FB3C6E2995BE
+C\:\\Users\\seren\\projects\\day9_sissorspaperstone\\src\\test\\java\\ssg\\edu\\nus\\iss\\AppTest.java=1674200344184
